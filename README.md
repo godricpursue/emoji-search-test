@@ -35,6 +35,8 @@ npm test
 
 This will run all the tests in the src directory that match the file pattern `*.test.js;`.
 
+Included test.js by me : `emojiSearch.test.js`
+
 ## Test Cases
 
 The test suite contains the following four test cases:
